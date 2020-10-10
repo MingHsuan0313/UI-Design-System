@@ -1,0 +1,9 @@
+[submodule "UI-Design-Client"]
+	path = UI-Design-Client
+	url = https://github.com/MingHsuan0313/UI-Design-Client
+[submodule "UI-Design-Server"]
+	path = UI-Design-Server
+	url = https://github.com/MingHsuan0313/UI-Design-Server
+[submodule "UI-Composition-Engine"]
+	path = UI-Composition-Engine
+	url = https://github.com/MingHsuan0313/UI-Composition-Engine
