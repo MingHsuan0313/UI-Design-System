@@ -19,4 +19,3 @@
     * Using FreeMarker template engine
     
 [![Watch The Video](Background.png)](https://youtu.be/uk4vQ6ZEg-4)
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
